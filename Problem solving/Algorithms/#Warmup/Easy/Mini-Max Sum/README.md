@@ -1,9 +1,5 @@
 #[Mini Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)
 
-This is the task from [HackerRank](https://www.hackerrank.com/dashboard)
-<br>
-<br>
-
 **First solution**
 <br>
 *Easy to write, but requires 4 full iterations*

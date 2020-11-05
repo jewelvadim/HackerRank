@@ -1,9 +1,5 @@
 #[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)
 
-This is the task from [HackerRank](https://www.hackerrank.com/dashboard)
-<br>
-<br>
-
 **Solution**
 <br>
 ```python

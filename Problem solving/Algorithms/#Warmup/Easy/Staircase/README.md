@@ -1,8 +1,4 @@
-#[Staircase](https://www.hackerrank.com/challenges/staircase/problem)
-
-This is the task from [HackerRank](https://www.hackerrank.com/dashboard)
-<br>
-<br>
+#[Staircase](https://www.hackerrank.com/challenges/staircase)
 
 **First solution**
 <br>

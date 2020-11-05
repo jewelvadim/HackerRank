@@ -1,9 +1,5 @@
 #[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)
 
-This is the task from [HackerRank](https://www.hackerrank.com/dashboard)
-<br>
-<br>
-
 **Solution**
 <br>
 ```python

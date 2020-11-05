@@ -1,9 +1,5 @@
 #[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)
 
-This is the task from [HackerRank](https://www.hackerrank.com/dashboard)
-<br>
-<br>
-
 **Solution**
 <br>
 ```python

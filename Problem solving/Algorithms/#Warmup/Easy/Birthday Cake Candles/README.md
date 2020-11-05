@@ -1,9 +1,5 @@
 #[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)
 
-This is the task from [HackerRank](https://www.hackerrank.com/dashboard)
-<br>
-<br>
-
 **First solution**
 <br>
 *With using Counter from collections*
