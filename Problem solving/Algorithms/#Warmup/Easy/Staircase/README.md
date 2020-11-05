@@ -20,6 +20,6 @@ def staircase(n):
     [print(str('#' * i).rjust(n)) for i in range(1, n+1)]
 ```
 
+If it useful for you - I am happy. Please, press **star**.
 <br>
-If it useful for you - I am happy. <br>
 If you know, how to make my solution better - please, text me.
