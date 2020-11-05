@@ -1,4 +1,5 @@
-#[HackerRank](https://www.hackerrank.com/jewel_vadim)
+[![alt text](https://i.imgur.com/skWiOqm.png "Me on HackerRank")](https://www.hackerrank.com/jewel_vadim)
+
 
 There are my solutions of challenges.
 <br>
