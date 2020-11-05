@@ -1,4 +1,4 @@
-[![alt text](https://i.imgur.com/skWiOqm.png "Me on HackerRank")](https://www.hackerrank.com/jewel_vadim)
+[![alt text](https://repository-images.githubusercontent.com/222961206/51552500-0c46-11ea-9638-38b5cc9ab77d "Me on HackerRank")](https://www.hackerrank.com/jewel_vadim)
 
 
 There are my solutions of challenges.
