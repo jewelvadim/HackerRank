@@ -1,7 +1,7 @@
-[![alt text](https://repository-images.githubusercontent.com/222961206/51552500-0c46-11ea-9638-38b5cc9ab77d "Me on HackerRank")](https://www.hackerrank.com/jewel_vadim)
+[![alt text](https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png "Me on HackerRank")](https://www.hackerrank.com/jewel_vadim)
 
 
-There are my solutions of challenges.
+# There are my solutions of HackerRank challenges.
 <br>
 
 If it useful for you - I am happy. Please, press **star**.
