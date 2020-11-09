@@ -23,3 +23,55 @@ If you know, how to make my solution better - please, text me.
 8. Mini-Max Sum | [Problem](https://www.hackerrank.com/challenges/mini-max-sum) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Warmup/Easy/Mini-Max%20Sum/README.md) | Score: 10
 9. Birthday Cake Candles | [Problem](https://www.hackerrank.com/challenges/birthday-cake-candles) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Warmup/Easy/Birthday%20Cake%20Candles/README.md) | Score: 10
 10. Time Conversion | [Problem](https://www.hackerrank.com/challenges/time-conversion) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Warmup/Easy/Time%20Conversion/README.md) | Score: 15
+
+#### #Implementation
+##### Easy
+1. Grading Students | [Problem](https://www.hackerrank.com/challenges/grading) | [Solution] | Score: 10
+2. Apple and Orange | [Problem](https://www.hackerrank.com/challenges/apple-and-orange) | [Solution] | Score: 10
+3. Number Line Jumps | [Problem](https://www.hackerrank.com/challenges/kangaroo) | [Solution] | Score: 10
+4. Between Two Sets | [Problem](https://www.hackerrank.com/challenges/between-two-sets) | [Solution] | Score: 10
+5. Breaking the Records | [Problem](https://www.hackerrank.com/challenges/breaking-best-and-worst-records) | [Solution] | Score: 10
+6. Sub-array Division | [Problem](https://www.hackerrank.com/challenges/the-birthday-bar) | [Solution] | Score: 10
+7. Divisible Sum Pairs | [Problem](https://www.hackerrank.com/challenges/divisible-sum-pairs) | [Solution] | Score: 10
+8. Migratory Birds | [Problem](https://www.hackerrank.com/challenges/migratory-birds) | [Solution] | Score: 10
+9. Day of the Programmer | [Problem](https://www.hackerrank.com/challenges/day-of-the-programmer) | [Solution] | Score: 15
+10. Bill Division | [Problem](https://www.hackerrank.com/challenges/bon-appetit) | [Solution] | Score: 10
+11. Sales by Match | [Problem](https://www.hackerrank.com/challenges/sock-merchant) | [Solution] | Score: 10
+12. Drawing Book | [Problem](https://www.hackerrank.com/challenges/drawing-book) | [Solution] | Score: 10
+13. Counting Valleys | [Problem](https://www.hackerrank.com/challenges/counting-valleys) | [Solution] | Score: 15
+14. Electronics Shop | [Problem](https://www.hackerrank.com/challenges/electronics-shop) | [Solution] | Score: 15
+15. Cats and a Mouse | [Problem](https://www.hackerrank.com/challenges/cats-and-a-mouse) | [Solution] | Score: 15
+16. Picking Numbers | [Problem](https://www.hackerrank.com/challenges/picking-numbers) | [Solution] | Score: 20
+17. The Hurdle Race | [Problem](https://www.hackerrank.com/challenges/the-hurdle-race) | [Solution] | Score: 15
+18. Designer PDF Viewer | [Problem](https://www.hackerrank.com/challenges/designer-pdf-viewer) | [Solution] | Score: 20
+19. Utopian Tree | [Problem](https://www.hackerrank.com/challenges/utopian-tree) | [Solution] | Score: 20
+20. Angry Professor | [Problem](https://www.hackerrank.com/challenges/angry-professor) | [Solution] | Score: 20
+21. Beautiful Days at the Movies | [Problem](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies) | [Solution] | Score: 15
+22. Viral Advertising | [Problem](https://www.hackerrank.com/challenges/strange-advertising) | [Solution] | Score: 15
+23. Save the Prisoner | [Problem](https://www.hackerrank.com/challenges/save-the-prisoner) | [Solution] | Score: 15
+24. Circular Array Rotation | [Problem](https://www.hackerrank.com/challenges/circular-array-rotation) | [Solution] | Score: 20
+25. Sequence Equation | [Problem](https://www.hackerrank.com/challenges/permutation-equation) | [Solution] | Score: 20
+26. Jumping on the Clouds: Revisited | [Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited) | [Solution] | Score: 15
+27. Find Digits | [Problem](https://www.hackerrank.com/challenges/find-digits) | [Solution] | Score: 25
+28. Append and Delete | [Problem](https://www.hackerrank.com/challenges/append-and-delete) | [Solution] | Score: 20
+29. Sherlock and Squares | [Problem](https://www.hackerrank.com/challenges/sherlock-and-squares) | [Solution] | Score: 20
+30. Library Fine | [Problem](https://www.hackerrank.com/challenges/library-fine) | [Solution] | Score: 15
+31. Cut the sticks | [Problem](https://www.hackerrank.com/challenges/cut-the-sticks) | [Solution] | Score: 25
+32. Repeated String | [Problem](https://www.hackerrank.com/challenges/repeated-string) | [Solution] | Score: 20
+33. Jumping on the Clouds | [Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds) | [Solution] | Score: 20
+34. Equalize the Array | [Problem](https://www.hackerrank.com/challenges/equality-in-a-array) | [Solution] | Score: 20
+35. delme | [Problem]() | [Solution] | Score: 1
+36. delme | [Problem]() | [Solution] | Score: 1
+37. delme | [Problem]() | [Solution] | Score: 1
+38. delme | [Problem]() | [Solution] | Score: 1
+39. delme | [Problem]() | [Solution] | Score: 1
+40. delme | [Problem]() | [Solution] | Score: 1
+41. delme | [Problem]() | [Solution] | Score: 1
+42. delme | [Problem]() | [Solution] | Score: 1
+43. delme | [Problem]() | [Solution] | Score: 1
+44. delme | [Problem]() | [Solution] | Score: 1
+45. delme | [Problem]() | [Solution] | Score: 1
+46. delme | [Problem]() | [Solution] | Score: 1
+47. delme | [Problem]() | [Solution] | Score: 1
+48. delme | [Problem]() | [Solution] | Score: 1
+49. delme | [Problem]() | [Solution] | Score: 1
