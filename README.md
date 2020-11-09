@@ -60,18 +60,18 @@ If you know, how to make my solution better - please, text me.
 32. Repeated String | [Problem](https://www.hackerrank.com/challenges/repeated-string) | [Solution] | Score: 20
 33. Jumping on the Clouds | [Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds) | [Solution] | Score: 20
 34. Equalize the Array | [Problem](https://www.hackerrank.com/challenges/equality-in-a-array) | [Solution] | Score: 20
-35. delme | [Problem]() | [Solution] | Score: 1
-36. delme | [Problem]() | [Solution] | Score: 1
-37. delme | [Problem]() | [Solution] | Score: 1
-38. delme | [Problem]() | [Solution] | Score: 1
-39. delme | [Problem]() | [Solution] | Score: 1
-40. delme | [Problem]() | [Solution] | Score: 1
-41. delme | [Problem]() | [Solution] | Score: 1
-42. delme | [Problem]() | [Solution] | Score: 1
-43. delme | [Problem]() | [Solution] | Score: 1
-44. delme | [Problem]() | [Solution] | Score: 1
-45. delme | [Problem]() | [Solution] | Score: 1
-46. delme | [Problem]() | [Solution] | Score: 1
-47. delme | [Problem]() | [Solution] | Score: 1
-48. delme | [Problem]() | [Solution] | Score: 1
-49. delme | [Problem]() | [Solution] | Score: 1
+35. ACM ICPC Team | [Problem](https://www.hackerrank.com/challenges/acm-icpc-team) | [Solution] | Score: 25
+36. Taum and B'day | [Problem](https://www.hackerrank.com/challenges/taum-and-bday) | [Solution] | Score: 25
+37. Modified Kaprekar Numbers | [Problem](https://www.hackerrank.com/challenges/kaprekar-numbers) | [Solution] | Score: 30
+38. Beautiful Triplets | [Problem](https://www.hackerrank.com/challenges/beautiful-triplets) | [Solution] | Score: 20
+39. Minimum Distances | [Problem](https://www.hackerrank.com/challenges/minimum-distances) | [Solution] | Score: 20
+40. Halloween Sale | [Problem](https://www.hackerrank.com/challenges/halloween-sale) | [Solution] | Score: 20
+41. Chocolate Feast | [Problem](https://www.hackerrank.com/challenges/chocolate-feast) | [Solution] | Score: 25
+42. Service Lane | [Problem](https://www.hackerrank.com/challenges/service-lane) | [Solution] | Score: 20
+43. Lisa's Workbook | [Problem](https://www.hackerrank.com/challenges/lisa-workbook) | [Solution] | Score: 25
+44. Flatland Space Stations | [Problem](https://www.hackerrank.com/challenges/flatland-space-stations) | [Solution] | Score: 25
+45. Fair Rations | [Problem](https://www.hackerrank.com/challenges/fair-rations) | [Solution] | Score: 25
+46. Cavity Map | [Problem](https://www.hackerrank.com/challenges/cavity-map) | [Solution] | Score: 30
+47. Manasa and Stones | [Problem](https://www.hackerrank.com/challenges/manasa-and-stones) | [Solution] | Score: 30
+48. Happy Ladybugs | [Problem](https://www.hackerrank.com/challenges/happy-ladybugs) | [Solution] | Score: 30
+49. Strange Counter | [Problem](https://www.hackerrank.com/challenges/strange-code) | [Solution] | Score: 30
