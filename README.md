@@ -22,4 +22,4 @@ If you know, how to make my solution better - please, text me.
 7. Staircase | [Problem](https://www.hackerrank.com/challenges/staircase) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Warmup/Easy/Staircase/README.md) | Score: 10
 8. Mini-Max Sum | [Problem](https://www.hackerrank.com/challenges/mini-max-sum) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Warmup/Easy/Mini-Max%20Sum/README.md) | Score: 10
 9. Birthday Cake Candles | [Problem](https://www.hackerrank.com/challenges/birthday-cake-candles) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Warmup/Easy/Birthday%20Cake%20Candles/README.md) | Score: 10
-10. Time Conversion | [Problem](https://www.hackerrank.com/challenges/time-conversion) | [Solution] | Score: 15
+10. Time Conversion | [Problem](https://www.hackerrank.com/challenges/time-conversion) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Warmup/Easy/Time%20Conversion/README.md) | Score: 15
