@@ -42,7 +42,7 @@ If you know, how to make my solution better - please, text me.
 14. Electronics Shop | [Problem](https://www.hackerrank.com/challenges/electronics-shop) | [Solution] | Score: 15
 15. Cats and a Mouse | [Problem](https://www.hackerrank.com/challenges/cats-and-a-mouse) | [Solution] | Score: 15
 16. Picking Numbers | [Problem](https://www.hackerrank.com/challenges/picking-numbers) | [Solution] | Score: 20
-17. The Hurdle Race | [Problem](https://www.hackerrank.com/challenges/the-hurdle-race) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Warmup/Easy/The%20Hurdle%20Race/README.md) | Score: 15
+17. The Hurdle Race | [Problem](https://www.hackerrank.com/challenges/the-hurdle-race) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/The%20Hurdle%20Race/README.md) | Score: 15
 18. Designer PDF Viewer | [Problem](https://www.hackerrank.com/challenges/designer-pdf-viewer) | [Solution] | Score: 20
 19. Utopian Tree | [Problem](https://www.hackerrank.com/challenges/utopian-tree) | [Solution] | Score: 20
 20. Angry Professor | [Problem](https://www.hackerrank.com/challenges/angry-professor) | [Solution] | Score: 20
