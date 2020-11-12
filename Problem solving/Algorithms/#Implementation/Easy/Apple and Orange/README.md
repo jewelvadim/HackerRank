@@ -8,6 +8,6 @@ def countApplesAndOranges(s, t, a, b, apples, oranges):
     print(sum([s <= x + b <= t for x in oranges]))
 ```
 
-If it useful for you - I am happy. Please, press **star**.
+If it is useful for you - I am happy. Please, press **star**.
 <br>
 If you know, how to make my solution better - please, text me.

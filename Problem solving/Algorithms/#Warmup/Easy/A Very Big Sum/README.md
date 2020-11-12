@@ -9,6 +9,6 @@ def aVeryBigSum(ar):
     return sum(ar)
 ```
 
-If it useful for you - I am happy. Please, press **star**.
+If it is useful for you - I am happy. Please, press **star**.
 <br>
 If you know, how to make my solution better - please, text me.

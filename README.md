@@ -4,7 +4,7 @@
 # There are my solutions of HackerRank challenges.
 <br>
 
-If it useful for you - I am happy. Please, press **star**.
+If it is useful for you - I am happy. Please, press **star**.
 <br>
 If you know, how to make my solution better - please, text me.
 
@@ -28,7 +28,7 @@ If you know, how to make my solution better - please, text me.
 ##### Easy
 1. Grading Students | [Problem](https://www.hackerrank.com/challenges/grading) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Grading%20Students/README.md) | Score: 10
 2. Apple and Orange | [Problem](https://www.hackerrank.com/challenges/apple-and-orange) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Apple%20and%20Orange/README.md) | Score: 10
-3. Number Line Jumps | [Problem](https://www.hackerrank.com/challenges/kangaroo) | [Solution] | Score: 10
+3. Number Line Jumps | [Problem](https://www.hackerrank.com/challenges/kangaroo) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Number%20Line%20Jumps/README.md) | Score: 10
 4. Between Two Sets | [Problem](https://www.hackerrank.com/challenges/between-two-sets) | [Solution] | Score: 10
 5. Breaking the Records | [Problem](https://www.hackerrank.com/challenges/breaking-best-and-worst-records) | [Solution] | Score: 10
 6. Sub-array Division | [Problem](https://www.hackerrank.com/challenges/the-birthday-bar) | [Solution] | Score: 10

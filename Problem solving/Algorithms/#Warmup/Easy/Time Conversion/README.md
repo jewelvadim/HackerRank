@@ -16,6 +16,6 @@ If the time is between 1:00 PM and 11:59 PM, we add 12 hours to input time. <br>
 Division mod 12 satisfies the condition AM. Then, if time is PM, add 12. And next, if starts with 0, make it with 2.
 
 
-If it useful for you - I am happy. Please, press **star**.
+If it is useful for you - I am happy. Please, press **star**.
 <br>
 If you know, how to make my solution better - please, text me.
