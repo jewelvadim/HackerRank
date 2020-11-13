@@ -30,7 +30,7 @@ If you know, how to make my solution better - please, text me.
 2. Apple and Orange | [Problem](https://www.hackerrank.com/challenges/apple-and-orange) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Apple%20and%20Orange/README.md) | Score: 10
 3. Number Line Jumps | [Problem](https://www.hackerrank.com/challenges/kangaroo) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Number%20Line%20Jumps/README.md) | Score: 10
 4. Between Two Sets | [Problem](https://www.hackerrank.com/challenges/between-two-sets) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Between%20Two%20Sets/README.md) | Score: 10
-5. Breaking the Records | [Problem](https://www.hackerrank.com/challenges/breaking-best-and-worst-records) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Breaking%20The%20Records/README.md) | Score: 10
+5. Breaking the Records | [Problem](https://www.hackerrank.com/challenges/breaking-best-and-worst-records) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Breaking%20the%20Records/README.md) | Score: 10
 6. Sub-array Division | [Problem](https://www.hackerrank.com/challenges/the-birthday-bar) | [Solution] | Score: 10
 7. Divisible Sum Pairs | [Problem](https://www.hackerrank.com/challenges/divisible-sum-pairs) | [Solution] | Score: 10
 8. Migratory Birds | [Problem](https://www.hackerrank.com/challenges/migratory-birds) | [Solution] | Score: 10
