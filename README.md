@@ -31,7 +31,7 @@ If you know, how to make my solution better - please, text me.
 3. Number Line Jumps | [Problem](https://www.hackerrank.com/challenges/kangaroo) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Number%20Line%20Jumps/README.md) | Score: 10
 4. Between Two Sets | [Problem](https://www.hackerrank.com/challenges/between-two-sets) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Between%20Two%20Sets/README.md) | Score: 10
 5. Breaking the Records | [Problem](https://www.hackerrank.com/challenges/breaking-best-and-worst-records) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Breaking%20the%20Records/README.md) | Score: 10
-6. Sub-array Division | [Problem](https://www.hackerrank.com/challenges/the-birthday-bar) | [Solution] | Score: 10
+6. Sub-array Division | [Problem](https://www.hackerrank.com/challenges/the-birthday-bar) | [Solution](https://github.com/jewelvadim/HackerRank/tree/master/Problem%20solving/Algorithms/%23Implementation/Easy/Sub-array%20Division) | Score: 10
 7. Divisible Sum Pairs | [Problem](https://www.hackerrank.com/challenges/divisible-sum-pairs) | [Solution] | Score: 10
 8. Migratory Birds | [Problem](https://www.hackerrank.com/challenges/migratory-birds) | [Solution] | Score: 10
 9. Day of the Programmer | [Problem](https://www.hackerrank.com/challenges/day-of-the-programmer) | [Solution] | Score: 15
