@@ -4,7 +4,7 @@
 <br>
 ```python
 def getTotalX(a, b):
-    return sum([all([i % x == 0 for x in a]) and all([x % i == 0 for x in b]) for i in range(max(a), min(b) + 1)])
+    return sum((all((i % x == 0 for x in a)) and all((x % i == 0 for x in b)) for i in range(max(a), min(b) + 1)))
 ```
 
 *P.S.*

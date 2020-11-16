@@ -4,8 +4,8 @@
 <br>
 ```python
 def countApplesAndOranges(s, t, a, b, apples, oranges):
-    print(sum([s <= x + a <= t for x in apples]))
-    print(sum([s <= x + b <= t for x in oranges]))
+    print(sum((s <= x + a <= t for x in apples)))
+    print(sum((s <= x + b <= t for x in oranges)))
 ```
 
 If it is useful for you - I am happy. Please, press **star**.
