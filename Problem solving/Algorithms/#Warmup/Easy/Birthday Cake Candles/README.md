@@ -21,11 +21,11 @@ def birthdayCakeCandles(candles):
     result = 0
     
     for item in candles:
-        if item > max_:
-            max_ = item
-            result = 0
         if item == max_:
             result += 1
+        elif item > max_:
+            max_ = item
+            result = 1
             
     return result
 ```
