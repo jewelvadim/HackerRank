@@ -1,4 +1,4 @@
-#[Staircase](https://www.hackerrank.com/challenges/staircase)
+# [Staircase](https://www.hackerrank.com/challenges/staircase)
 
 **First solution**
 <br>

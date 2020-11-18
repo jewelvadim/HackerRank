@@ -1,4 +1,4 @@
-#[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)
+# [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)
 
 **Solution**
 <br>

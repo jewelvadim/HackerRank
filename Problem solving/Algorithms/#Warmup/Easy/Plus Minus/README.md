@@ -1,4 +1,4 @@
-#[Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)
+# [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)
 
 **Solution**
 <br>

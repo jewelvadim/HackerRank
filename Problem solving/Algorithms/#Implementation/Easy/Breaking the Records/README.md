@@ -1,4 +1,4 @@
-#[Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)
+# [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)
 
 **Solution**
 <br>
