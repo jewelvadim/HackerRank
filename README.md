@@ -34,7 +34,7 @@ If you know, how to make my solution better - please, text me.
 6. Sub-array Division | [Problem](https://www.hackerrank.com/challenges/the-birthday-bar) | [Solution](https://github.com/jewelvadim/HackerRank/tree/master/Problem%20solving/Algorithms/%23Implementation/Easy/Sub-array%20Division) | Score: 10
 7. Divisible Sum Pairs | [Problem](https://www.hackerrank.com/challenges/divisible-sum-pairs) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Divisible%20Sum%20Pairs/README.md) | Score: 10
 8. Migratory Birds | [Problem](https://www.hackerrank.com/challenges/migratory-birds) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Migratory%20Birds/README.md) | Score: 10
-9. Day of the Programmer | [Problem](https://www.hackerrank.com/challenges/day-of-the-programmer) | [Solution] | Score: 15
+9. Day of the Programmer | [Problem](https://www.hackerrank.com/challenges/day-of-the-programmer) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Day%20of%20the%20Programmer/README.md) | Score: 15
 10. Bill Division | [Problem](https://www.hackerrank.com/challenges/bon-appetit) | [Solution] | Score: 10
 11. Sales by Match | [Problem](https://www.hackerrank.com/challenges/sock-merchant) | [Solution] | Score: 10
 12. Drawing Book | [Problem](https://www.hackerrank.com/challenges/drawing-book) | [Solution] | Score: 10
