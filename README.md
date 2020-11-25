@@ -39,7 +39,7 @@ If you know, how to make my solution better - please, text me.
 11. Sales by Match | [Problem](https://www.hackerrank.com/challenges/sock-merchant) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Sales%20by%20Match/README.md) | Score: 10
 12. Drawing Book | [Problem](https://www.hackerrank.com/challenges/drawing-book) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Drawing%20Book/README.md) | Score: 10
 13. Counting Valleys | [Problem](https://www.hackerrank.com/challenges/counting-valleys) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Counting%20Valleys/README.md) | Score: 15
-14. Electronics Shop | [Problem](https://www.hackerrank.com/challenges/electronics-shop) | [Solution] | Score: 15
+14. Electronics Shop | [Problem](https://www.hackerrank.com/challenges/electronics-shop) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Electronics%20Shop/README.md) | Score: 15
 15. Cats and a Mouse | [Problem](https://www.hackerrank.com/challenges/cats-and-a-mouse) | [Solution] | Score: 15
 16. Picking Numbers | [Problem](https://www.hackerrank.com/challenges/picking-numbers) | [Solution] | Score: 20
 17. The Hurdle Race | [Problem](https://www.hackerrank.com/challenges/the-hurdle-race) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/The%20Hurdle%20Race/README.md) | Score: 15
