@@ -43,7 +43,7 @@ If you know, how to make my solution better - please, text me.
 15. Cats and a Mouse | [Problem](https://www.hackerrank.com/challenges/cats-and-a-mouse) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Cats%20and%20a%20Mouse/README.md) | Score: 15
 16. Picking Numbers | [Problem](https://www.hackerrank.com/challenges/picking-numbers) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Picking%20Numbers/README.md) | Score: 20
 17. The Hurdle Race | [Problem](https://www.hackerrank.com/challenges/the-hurdle-race) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/The%20Hurdle%20Race/README.md) | Score: 15
-18. Designer PDF Viewer | [Problem](https://www.hackerrank.com/challenges/designer-pdf-viewer) | [Solution] | Score: 20
+18. Designer PDF Viewer | [Problem](https://www.hackerrank.com/challenges/designer-pdf-viewer) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Designer%20PDF%20Viewer/README.md) | Score: 20
 19. Utopian Tree | [Problem](https://www.hackerrank.com/challenges/utopian-tree) | [Solution] | Score: 20
 20. Angry Professor | [Problem](https://www.hackerrank.com/challenges/angry-professor) | [Solution] | Score: 20
 21. Beautiful Days at the Movies | [Problem](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies) | [Solution] | Score: 15
