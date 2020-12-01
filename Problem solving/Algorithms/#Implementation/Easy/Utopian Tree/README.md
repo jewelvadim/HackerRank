@@ -18,7 +18,7 @@ def utopianTree(n):
 <br>
 ```python
 def utopianTree(n):
-    return ((1 << (n // 2 + 1)) - 1) << n % 2
+    return ((1 << ((n >> 1) + 1)) - 1) << n % 2
 ```
 *Explanation*
 <br>
