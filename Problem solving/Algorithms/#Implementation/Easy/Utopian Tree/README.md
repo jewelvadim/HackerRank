@@ -18,11 +18,12 @@ def utopianTree(n):
 <br>
 ```python
 def utopianTree(n):
-    return ((1 << ((n >> 1) + 1)) - 1) << n % 2
+    return ~ (~ 1 << (n >> 1)) << n % 2
 ```
 *Explanation*
 <br>
 x << y = x * 2**y
+~ x = - (x + 1)
 <br>
 
 If it is useful for you - I am happy. Please, press **star**.
