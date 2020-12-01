@@ -11,6 +11,19 @@ def utopianTree(n):
         
     return 2 * result if n % 2 else result
 ```
+<br>
+<br>
+
+**Solution with ```<<``` operand**
+<br>
+```python
+def utopianTree(n):
+    return ((1 << (n // 2 + 1)) - 1) << n % 2
+```
+*Explanation*
+<br>
+x << y = x * 2**y
+<br>
 
 If it is useful for you - I am happy. Please, press **star**.
 <br>
