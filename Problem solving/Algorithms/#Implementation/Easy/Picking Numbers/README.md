@@ -4,7 +4,7 @@
 <br>
 ```python
 def pickingNumbers(a):
-    return max([a.count(i) + a.count(i + 1) for i in set(a)])
+    return max((a.count(i) + a.count(i + 1) for i in set(a)))    
 ```
 
 If it is useful for you - I am happy. Please, press **star**.
