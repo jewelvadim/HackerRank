@@ -46,7 +46,7 @@ If you know, how to make my solution better - please, text me.
 18. Designer PDF Viewer | [Problem](https://www.hackerrank.com/challenges/designer-pdf-viewer) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Designer%20PDF%20Viewer/README.md) | Score: 20
 19. Utopian Tree | [Problem](https://www.hackerrank.com/challenges/utopian-tree) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Utopian%20Tree/README.md) | Score: 20
 20. Angry Professor | [Problem](https://www.hackerrank.com/challenges/angry-professor) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Angry%20Professor/README.md) | Score: 20
-21. Beautiful Days at the Movies | [Problem](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies) | [Solution] | Score: 15
+21. Beautiful Days at the Movies | [Problem](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Beautiful%20Days%20at%20the%20Movies/README.md) | Score: 15
 22. Viral Advertising | [Problem](https://www.hackerrank.com/challenges/strange-advertising) | [Solution] | Score: 15
 23. Save the Prisoner | [Problem](https://www.hackerrank.com/challenges/save-the-prisoner) | [Solution] | Score: 15
 24. Circular Array Rotation | [Problem](https://www.hackerrank.com/challenges/circular-array-rotation) | [Solution] | Score: 20
