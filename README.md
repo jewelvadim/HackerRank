@@ -49,7 +49,7 @@ If you know, how to make my solution better - please, text me.
 21. Beautiful Days at the Movies | [Problem](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Beautiful%20Days%20at%20the%20Movies/README.md) | Score: 15
 22. Viral Advertising | [Problem](https://www.hackerrank.com/challenges/strange-advertising) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Viral%20Advertising/README.md) | Score: 15
 23. Save the Prisoner | [Problem](https://www.hackerrank.com/challenges/save-the-prisoner) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Save%20the%20Prisoner/README.md) | Score: 15
-24. Circular Array Rotation | [Problem](https://www.hackerrank.com/challenges/circular-array-rotation) | [Solution] | Score: 20
+24. Circular Array Rotation | [Problem](https://www.hackerrank.com/challenges/circular-array-rotation) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Circular%20Array%20Rotation/README.md) | Score: 20
 25. Sequence Equation | [Problem](https://www.hackerrank.com/challenges/permutation-equation) | [Solution] | Score: 20
 26. Jumping on the Clouds: Revisited | [Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited) | [Solution] | Score: 15
 27. Find Digits | [Problem](https://www.hackerrank.com/challenges/find-digits) | [Solution] | Score: 25
