@@ -4,14 +4,7 @@
 <br>
 ```python
 def divisibleSumPairs(n, k, ar):
-    result = 0
-    
-    for i in range(n-1):
-        for j in range(i+1, n):
-            if (ar[i] + ar[j]) % k == 0:
-                result += 1
-                
-    return result    
+    return sum((ar[i] + ar[j]) % k == 0 for i in range(n-1) for j in range(i+1, n))
 ```
 
 If it is useful for you - I am happy. Please, press **star**.
