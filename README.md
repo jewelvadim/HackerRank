@@ -51,7 +51,7 @@ If you know, how to make my solution better - please, text me.
 23. Save the Prisoner | [Problem](https://www.hackerrank.com/challenges/save-the-prisoner) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Save%20the%20Prisoner/README.md) | Score: 15
 24. Circular Array Rotation | [Problem](https://www.hackerrank.com/challenges/circular-array-rotation) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Circular%20Array%20Rotation/README.md) | Score: 20
 25. Sequence Equation | [Problem](https://www.hackerrank.com/challenges/permutation-equation) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Sequence%20Equation/README.md) | Score: 20
-26. Jumping on the Clouds: Revisited | [Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited) | [Solution] | Score: 15
+26. Jumping on the Clouds: Revisited | [Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Jumping%20on%20the%20Clouds:%20Revisited/README.md) | Score: 15
 27. Find Digits | [Problem](https://www.hackerrank.com/challenges/find-digits) | [Solution] | Score: 25
 28. Append and Delete | [Problem](https://www.hackerrank.com/challenges/append-and-delete) | [Solution] | Score: 20
 29. Sherlock and Squares | [Problem](https://www.hackerrank.com/challenges/sherlock-and-squares) | [Solution] | Score: 20
