@@ -53,7 +53,7 @@ If you know, how to make my solution better - please, text me.
 25. Sequence Equation | [Problem](https://www.hackerrank.com/challenges/permutation-equation) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Sequence%20Equation/README.md) | Score: 20
 26. Jumping on the Clouds: Revisited | [Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Jumping%20on%20the%20Clouds:%20Revisited/README.md) | Score: 15
 27. Find Digits | [Problem](https://www.hackerrank.com/challenges/find-digits) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Find%20Digits/README.md) | Score: 25
-28. Append and Delete | [Problem](https://www.hackerrank.com/challenges/append-and-delete) | [Solution] | Score: 20
+28. Append and Delete | [Problem](https://www.hackerrank.com/challenges/append-and-delete) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Append%20and%20Delete/README.md) | Score: 20
 29. Sherlock and Squares | [Problem](https://www.hackerrank.com/challenges/sherlock-and-squares) | [Solution] | Score: 20
 30. Library Fine | [Problem](https://www.hackerrank.com/challenges/library-fine) | [Solution] | Score: 15
 31. Cut the sticks | [Problem](https://www.hackerrank.com/challenges/cut-the-sticks) | [Solution] | Score: 25
