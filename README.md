@@ -55,7 +55,7 @@ If you know, how to make my solution better - please, text me.
 27. Find Digits | [Problem](https://www.hackerrank.com/challenges/find-digits) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Find%20Digits/README.md) | Score: 25
 28. Append and Delete | [Problem](https://www.hackerrank.com/challenges/append-and-delete) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Append%20and%20Delete/README.md) | Score: 20
 29. Sherlock and Squares | [Problem](https://www.hackerrank.com/challenges/sherlock-and-squares) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Sherlock%20and%20Squares/README.md) | Score: 20
-30. Library Fine | [Problem](https://www.hackerrank.com/challenges/library-fine) | [Solution] | Score: 15
+30. Library Fine | [Problem](https://www.hackerrank.com/challenges/library-fine) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Library%20Fine/README.md) | Score: 15
 31. Cut the sticks | [Problem](https://www.hackerrank.com/challenges/cut-the-sticks) | [Solution] | Score: 25
 32. Repeated String | [Problem](https://www.hackerrank.com/challenges/repeated-string) | [Solution] | Score: 20
 33. Jumping on the Clouds | [Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds) | [Solution] | Score: 20
