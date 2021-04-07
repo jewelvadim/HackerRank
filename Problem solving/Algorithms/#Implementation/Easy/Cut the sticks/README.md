@@ -3,6 +3,15 @@
 **Solution**
 <br>
 ```python
+def cutTheSticks(arr):
+    res = []
+    while arr:
+        res.append(len(arr))
+        m = min(arr)
+        
+        arr = [x for x in arr if x != m]
+
+    return res
 ```
 
 If it is useful for you - I am happy. Please, press **star**.
