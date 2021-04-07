@@ -12,7 +12,6 @@ def dayOfProgrammer(year):
         day_ = 12
             
     return '{}.09.{}'.format(day_, year)
-
 ```
 
 If it is useful for you - I am happy. Please, press **star**.
