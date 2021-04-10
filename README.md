@@ -59,7 +59,7 @@ If you know, how to make my solution better - please, text me.
 31. Cut the sticks | [Problem](https://www.hackerrank.com/challenges/cut-the-sticks) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Cut%20the%20sticks/README.md) | Score: 25
 32. Repeated String | [Problem](https://www.hackerrank.com/challenges/repeated-string) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Repeated%20String/README.md) | Score: 20
 33. Jumping on the Clouds | [Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Jumping%20on%20the%20Clouds/README.md) | Score: 20
-34. Equalize the Array | [Problem](https://www.hackerrank.com/challenges/equality-in-a-array) | [Solution] | Score: 20
+34. Equalize the Array | [Problem](https://www.hackerrank.com/challenges/equality-in-a-array) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Equalize%20the%20Array/README.md) | Score: 20
 35. ACM ICPC Team | [Problem](https://www.hackerrank.com/challenges/acm-icpc-team) | [Solution] | Score: 25
 36. Taum and B'day | [Problem](https://www.hackerrank.com/challenges/taum-and-bday) | [Solution] | Score: 25
 37. Modified Kaprekar Numbers | [Problem](https://www.hackerrank.com/challenges/kaprekar-numbers) | [Solution] | Score: 30
