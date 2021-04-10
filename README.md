@@ -58,7 +58,7 @@ If you know, how to make my solution better - please, text me.
 30. Library Fine | [Problem](https://www.hackerrank.com/challenges/library-fine) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Library%20Fine/README.md) | Score: 15
 31. Cut the sticks | [Problem](https://www.hackerrank.com/challenges/cut-the-sticks) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Cut%20the%20sticks/README.md) | Score: 25
 32. Repeated String | [Problem](https://www.hackerrank.com/challenges/repeated-string) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Repeated%20String/README.md) | Score: 20
-33. Jumping on the Clouds | [Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds) | [Solution] | Score: 20
+33. Jumping on the Clouds | [Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Jumping%20on%20the%20Clouds/README.md) | Score: 20
 34. Equalize the Array | [Problem](https://www.hackerrank.com/challenges/equality-in-a-array) | [Solution] | Score: 20
 35. ACM ICPC Team | [Problem](https://www.hackerrank.com/challenges/acm-icpc-team) | [Solution] | Score: 25
 36. Taum and B'day | [Problem](https://www.hackerrank.com/challenges/taum-and-bday) | [Solution] | Score: 25
