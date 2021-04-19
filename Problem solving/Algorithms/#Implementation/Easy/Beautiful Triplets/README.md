@@ -15,10 +15,6 @@ def beautifulTriplets(d, arr):
     return res
 ```
 
-*P.S.*
-<br>
-It is more correct to use lcm and gcd as left and right borders of range, but my values are enough for conditions of this problem.
-
 If it is useful for you - I am happy. Please, press **star**.
 <br>
 If you know, how to make my solution better - please, text me.
