@@ -63,7 +63,7 @@ If you know, how to make my solution better - please, text me.
 35. ACM ICPC Team | [Problem](https://www.hackerrank.com/challenges/acm-icpc-team) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/ACM%20ICPC%20Team/README.md) | Score: 25
 36. Taum and B'day | [Problem](https://www.hackerrank.com/challenges/taum-and-bday) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Taum%20and%20B'day/README.md) | Score: 25
 37. Modified Kaprekar Numbers | [Problem](https://www.hackerrank.com/challenges/kaprekar-numbers) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Modified%20Kaprekar%20Numbers/README.md) | Score: 30
-38. Beautiful Triplets | [Problem](https://www.hackerrank.com/challenges/beautiful-triplets) | [Solution] | Score: 20
+38. Beautiful Triplets | [Problem](https://www.hackerrank.com/challenges/beautiful-triplets) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Beautiful%20Triplets/README.md) | Score: 20
 39. Minimum Distances | [Problem](https://www.hackerrank.com/challenges/minimum-distances) | [Solution] | Score: 20
 40. Halloween Sale | [Problem](https://www.hackerrank.com/challenges/halloween-sale) | [Solution] | Score: 20
 41. Chocolate Feast | [Problem](https://www.hackerrank.com/challenges/chocolate-feast) | [Solution] | Score: 25
