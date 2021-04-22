@@ -66,7 +66,7 @@ If you know, how to make my solution better - please, text me.
 38. Beautiful Triplets | [Problem](https://www.hackerrank.com/challenges/beautiful-triplets) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Beautiful%20Triplets/README.md) | Score: 20
 39. Minimum Distances | [Problem](https://www.hackerrank.com/challenges/minimum-distances) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Minimum%20Distances/README.md) | Score: 20
 40. Halloween Sale | [Problem](https://www.hackerrank.com/challenges/halloween-sale) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Halloween%20Sale/README.md) | Score: 20
-41. Chocolate Feast | [Problem](https://www.hackerrank.com/challenges/chocolate-feast) | [Solution] | Score: 25
+41. Chocolate Feast | [Problem](https://www.hackerrank.com/challenges/chocolate-feast) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Chocolate%20Feast/README.md) | Score: 25
 42. Service Lane | [Problem](https://www.hackerrank.com/challenges/service-lane) | [Solution] | Score: 20
 43. Lisa's Workbook | [Problem](https://www.hackerrank.com/challenges/lisa-workbook) | [Solution] | Score: 25
 44. Flatland Space Stations | [Problem](https://www.hackerrank.com/challenges/flatland-space-stations) | [Solution] | Score: 25
