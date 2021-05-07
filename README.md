@@ -70,7 +70,7 @@ If you know, how to make my solution better - please, text me.
 42. Service Lane | [Problem](https://www.hackerrank.com/challenges/service-lane) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Service%20Lane/README.md) | Score: 20
 43. Lisa's Workbook | [Problem](https://www.hackerrank.com/challenges/lisa-workbook) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Lisa's%20Workbook/README.md) | Score: 25
 44. Flatland Space Stations | [Problem](https://www.hackerrank.com/challenges/flatland-space-stations) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Flatland%20Space%20Stations/README.md) | Score: 25
-45. Fair Rations | [Problem](https://www.hackerrank.com/challenges/fair-rations) | [Solution] | Score: 25
+45. Fair Rations | [Problem](https://www.hackerrank.com/challenges/fair-rations) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Fair%20Rations/README.md) | Score: 25
 46. Cavity Map | [Problem](https://www.hackerrank.com/challenges/cavity-map) | [Solution] | Score: 30
 47. Manasa and Stones | [Problem](https://www.hackerrank.com/challenges/manasa-and-stones) | [Solution] | Score: 30
 48. Happy Ladybugs | [Problem](https://www.hackerrank.com/challenges/happy-ladybugs) | [Solution] | Score: 30
