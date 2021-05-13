@@ -72,6 +72,6 @@ If you know, how to make my solution better - please, text me.
 44. Flatland Space Stations | [Problem](https://www.hackerrank.com/challenges/flatland-space-stations) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Flatland%20Space%20Stations/README.md) | Score: 25
 45. Fair Rations | [Problem](https://www.hackerrank.com/challenges/fair-rations) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Fair%20Rations/README.md) | Score: 25
 46. Cavity Map | [Problem](https://www.hackerrank.com/challenges/cavity-map) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Cavity%20Map/README.md) | Score: 30
-47. Manasa and Stones | [Problem](https://www.hackerrank.com/challenges/manasa-and-stones) | [Solution] | Score: 30
+47. Manasa and Stones | [Problem](https://www.hackerrank.com/challenges/manasa-and-stones) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Manasa%20and%20Stones/README.md) | Score: 30
 48. Happy Ladybugs | [Problem](https://www.hackerrank.com/challenges/happy-ladybugs) | [Solution] | Score: 30
 49. Strange Counter | [Problem](https://www.hackerrank.com/challenges/strange-code) | [Solution] | Score: 30
