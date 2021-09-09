@@ -74,4 +74,4 @@ If you know, how to make my solution better - please, text me.
 46. Cavity Map | [Problem](https://www.hackerrank.com/challenges/cavity-map) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Cavity%20Map/README.md) | Score: 30
 47. Manasa and Stones | [Problem](https://www.hackerrank.com/challenges/manasa-and-stones) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Manasa%20and%20Stones/README.md) | Score: 30
 48. Happy Ladybugs | [Problem](https://www.hackerrank.com/challenges/happy-ladybugs) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Happy%20Ladybugs/README.md) | Score: 30
-49. Strange Counter | [Problem](https://www.hackerrank.com/challenges/strange-code) | [Solution] | Score: 30
+49. Strange Counter | [Problem](https://www.hackerrank.com/challenges/strange-code) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Implementation/Easy/Strange%20Counter/README.md) | Score: 30
