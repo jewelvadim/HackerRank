@@ -78,7 +78,7 @@ If you know, how to make my solution better - please, text me.
 
 #### #Strings
 ##### Easy
-1. Super Reduced String | [Problem](https://www.hackerrank.com/challenges/reduced-string) | [Solution]() | Score: 10
+1. Super Reduced String | [Problem](https://www.hackerrank.com/challenges/reduced-string) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Strings/Easy/Super%20Reduced%20String/README.md) | Score: 10
 2. CamelCase | [Problem](https://www.hackerrank.com/challenges/camelcase) | [Solution]() | Score: 15
 3. Strong Password | [Problem](https://www.hackerrank.com/challenges/strong-password) | [Solution]() | Score: 15
 4. Two Characters | [Problem](https://www.hackerrank.com/challenges/two-characters) | [Solution]() | Score: 20
