@@ -81,7 +81,7 @@ If you know, how to make my solution better - please, text me.
 1. Super Reduced String | [Problem](https://www.hackerrank.com/challenges/reduced-string) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Strings/Easy/Super%20Reduced%20String/README.md) | Score: 10
 2. CamelCase | [Problem](https://www.hackerrank.com/challenges/camelcase) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Strings/Easy/CamelCase/README.md) | Score: 15
 3. Strong Password | [Problem](https://www.hackerrank.com/challenges/strong-password) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Strings/Easy/Strong%20Password/README.md) | Score: 15
-4. Two Characters | [Problem](https://www.hackerrank.com/challenges/two-characters) | [Solution] | Score: 20
+4. Two Characters | [Problem](https://www.hackerrank.com/challenges/two-characters) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Strings/Easy/Two%20Characters/README.md) | Score: 20
 5. Caesar Cipher | [Problem](https://www.hackerrank.com/challenges/caesar-cipher-1) | [Solution] | Score: 15
 6. Mars Exploration | [Problem](https://www.hackerrank.com/challenges/mars-exploration) | [Solution] | Score: 15
 7. HackerRank in a String! | [Problem](https://www.hackerrank.com/challenges/hackerrank-in-a-string) | [Solution] | Score: 20
