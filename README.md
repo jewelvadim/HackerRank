@@ -83,9 +83,9 @@ If you know, how to make my solution better - please, text me.
 3. Strong Password | [Problem](https://www.hackerrank.com/challenges/strong-password) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Strings/Easy/Strong%20Password/README.md) | Score: 15
 4. Two Characters | [Problem](https://www.hackerrank.com/challenges/two-characters) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Strings/Easy/Two%20Characters/README.md) | Score: 20
 5. Caesar Cipher | [Problem](https://www.hackerrank.com/challenges/caesar-cipher-1) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Strings/Easy/Caesar%20Cipher/README.md) | Score: 15
-6. Mars Exploration | [Problem](https://www.hackerrank.com/challenges/mars-exploration) | [Solution] | Score: 15
+6. Mars Exploration | [Problem](https://www.hackerrank.com/challenges/mars-exploration) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Strings/Easy/Mars%20Exploration/README.md) | Score: 15
 7. HackerRank in a String! | [Problem](https://www.hackerrank.com/challenges/hackerrank-in-a-string) | [Solution] | Score: 20
-8. Pangrams | [Problem](https://www.hackerrank.com/challenges/pangrams) | [Solution]() | Score: 20
+8. Pangrams | [Problem](https://www.hackerrank.com/challenges/pangrams) | [Solution] | Score: 20
 9. Separate the Numbers | [Problem](https://www.hackerrank.com/challenges/separate-the-numbers) | [Solution] | Score: 20
 10. Funny String | [Problem](https://www.hackerrank.com/challenges/funny-string) | [Solution] | Score: 25
 11. Gemstones | [Problem](https://www.hackerrank.com/challenges/gem-stones) | [Solution] | Score: 20
