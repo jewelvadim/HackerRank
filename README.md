@@ -86,7 +86,7 @@ If you know, how to make my solution better - please, text me.
 6. Mars Exploration | [Problem](https://www.hackerrank.com/challenges/mars-exploration) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Strings/Easy/Mars%20Exploration/README.md) | Score: 15
 7. HackerRank in a String! | [Problem](https://www.hackerrank.com/challenges/hackerrank-in-a-string) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Strings/Easy/HackerRank%20in%20a%20String!/README.md) | Score: 20
 8. Pangrams | [Problem](https://www.hackerrank.com/challenges/pangrams) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Strings/Easy/Pangrams/README.md) | Score: 20
-9. Separate the Numbers | [Problem](https://www.hackerrank.com/challenges/separate-the-numbers) | [Solution] | Score: 20
+9. Separate the Numbers | [Problem](https://www.hackerrank.com/challenges/separate-the-numbers) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Strings/Easy/Separate%20the%20Numbers/README.md) | Score: 20
 10. Funny String | [Problem](https://www.hackerrank.com/challenges/funny-string) | [Solution] | Score: 25
 11. Gemstones | [Problem](https://www.hackerrank.com/challenges/gem-stones) | [Solution] | Score: 20
 12. Alternating Characters | [Problem](https://www.hackerrank.com/challenges/alternating-characters) | [Solution] | Score: 20
