@@ -86,15 +86,16 @@ If you know, how to make my solution better - please, text me.
 6. Mars Exploration | [Problem](https://www.hackerrank.com/challenges/mars-exploration) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Strings/Easy/Mars%20Exploration/README.md) | Score: 15
 7. HackerRank in a String! | [Problem](https://www.hackerrank.com/challenges/hackerrank-in-a-string) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Strings/Easy/HackerRank%20in%20a%20String!/README.md) | Score: 20
 8. Pangrams | [Problem](https://www.hackerrank.com/challenges/pangrams) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Strings/Easy/Pangrams/README.md) | Score: 20
-9. Separate the Numbers | [Problem](https://www.hackerrank.com/challenges/separate-the-numbers) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Strings/Easy/Separate%20the%20Numbers/README.md) | Score: 20
-10. Funny String | [Problem](https://www.hackerrank.com/challenges/funny-string) | [Solution] | Score: 25
-11. Gemstones | [Problem](https://www.hackerrank.com/challenges/gem-stones) | [Solution] | Score: 20
-12. Alternating Characters | [Problem](https://www.hackerrank.com/challenges/alternating-characters) | [Solution] | Score: 20
-13. Beautiful Binary String | [Problem](https://www.hackerrank.com/challenges/beautiful-binary-string) | [Solution] | Score: 20
-14. The Love-Letter Mystery | [Problem](https://www.hackerrank.com/challenges/the-love-letter-mystery) | [Solution] | Score: 20
-15. Palindrome Index | [Problem](https://www.hackerrank.com/challenges/palindrome-index) | [Solution] | Score: 25
-16. Anagram | [Problem](https://www.hackerrank.com/challenges/anagram) | [Solution] | Score: 25
-17. Making Anagrams | [Problem](https://www.hackerrank.com/challenges/making-anagrams) | [Solution] | Score: 30
-18. Game of Thrones - I | [Problem](https://www.hackerrank.com/challenges/game-of-thrones) | [Solution] | Score: 30
-19. Two Strings | [Problem](https://www.hackerrank.com/challenges/two-strings) | [Solution] | Score: 25
-20. String Construction | [Problem](https://www.hackerrank.com/challenges/string-construction) | [Solution] | Score: 25
+9. Weighted Uniform Strings | [Problem](https://www.hackerrank.com/challenges/weighted-uniform-string/problem) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Strings/Easy/Weighted%20Uniform%20Strings/README.md) | Score: 20
+10. Separate the Numbers | [Problem](https://www.hackerrank.com/challenges/separate-the-numbers) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Strings/Easy/Separate%20the%20Numbers/README.md) | Score: 20
+11. Funny String | [Problem](https://www.hackerrank.com/challenges/funny-string) | [Solution] | Score: 25
+12. Gemstones | [Problem](https://www.hackerrank.com/challenges/gem-stones) | [Solution] | Score: 20
+13. Alternating Characters | [Problem](https://www.hackerrank.com/challenges/alternating-characters) | [Solution] | Score: 20
+14. Beautiful Binary String | [Problem](https://www.hackerrank.com/challenges/beautiful-binary-string) | [Solution] | Score: 20
+15. The Love-Letter Mystery | [Problem](https://www.hackerrank.com/challenges/the-love-letter-mystery) | [Solution] | Score: 20
+16. Palindrome Index | [Problem](https://www.hackerrank.com/challenges/palindrome-index) | [Solution] | Score: 25
+17. Anagram | [Problem](https://www.hackerrank.com/challenges/anagram) | [Solution] | Score: 25
+18. Making Anagrams | [Problem](https://www.hackerrank.com/challenges/making-anagrams) | [Solution] | Score: 30
+19. Game of Thrones - I | [Problem](https://www.hackerrank.com/challenges/game-of-thrones) | [Solution] | Score: 30
+20. Two Strings | [Problem](https://www.hackerrank.com/challenges/two-strings) | [Solution] | Score: 25
+21. String Construction | [Problem](https://www.hackerrank.com/challenges/string-construction) | [Solution] | Score: 25
