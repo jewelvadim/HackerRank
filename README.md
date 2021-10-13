@@ -89,7 +89,7 @@ If you know, how to make my solution better - please, text me.
 9. Weighted Uniform Strings | [Problem](https://www.hackerrank.com/challenges/weighted-uniform-string/problem) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Strings/Easy/Weighted%20Uniform%20Strings/README.md) | Score: 20
 10. Separate the Numbers | [Problem](https://www.hackerrank.com/challenges/separate-the-numbers) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Strings/Easy/Separate%20the%20Numbers/README.md) | Score: 20
 11. Funny String | [Problem](https://www.hackerrank.com/challenges/funny-string) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Strings/Easy/Funny%20String/README.md) | Score: 25
-12. Gemstones | [Problem](https://www.hackerrank.com/challenges/gem-stones) | [Solution] | Score: 20
+12. Gemstones | [Problem](https://www.hackerrank.com/challenges/gem-stones) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Strings/Easy/Gemstones/README.md) | Score: 20
 13. Alternating Characters | [Problem](https://www.hackerrank.com/challenges/alternating-characters) | [Solution] | Score: 20
 14. Beautiful Binary String | [Problem](https://www.hackerrank.com/challenges/beautiful-binary-string) | [Solution] | Score: 20
 15. The Love-Letter Mystery | [Problem](https://www.hackerrank.com/challenges/the-love-letter-mystery) | [Solution] | Score: 20
