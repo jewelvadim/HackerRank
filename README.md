@@ -91,7 +91,7 @@ If you know, how to make my solution better - please, text me.
 11. Funny String | [Problem](https://www.hackerrank.com/challenges/funny-string) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Strings/Easy/Funny%20String/README.md) | Score: 25
 12. Gemstones | [Problem](https://www.hackerrank.com/challenges/gem-stones) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Strings/Easy/Gemstones/README.md) | Score: 20
 13. Alternating Characters | [Problem](https://www.hackerrank.com/challenges/alternating-characters) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Strings/Easy/Alternating%20Characters/README.md) | Score: 20
-14. Beautiful Binary String | [Problem](https://www.hackerrank.com/challenges/beautiful-binary-string) | [Solution] | Score: 20
+14. Beautiful Binary String | [Problem](https://www.hackerrank.com/challenges/beautiful-binary-string) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Strings/Easy/Beautiful%20Binary%20String/README.md) | Score: 20
 15. The Love-Letter Mystery | [Problem](https://www.hackerrank.com/challenges/the-love-letter-mystery) | [Solution] | Score: 20
 16. Palindrome Index | [Problem](https://www.hackerrank.com/challenges/palindrome-index) | [Solution] | Score: 25
 17. Anagram | [Problem](https://www.hackerrank.com/challenges/anagram) | [Solution] | Score: 25
