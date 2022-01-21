@@ -93,7 +93,7 @@ If you know, how to make my solution better - please, text me.
 13. Alternating Characters | [Problem](https://www.hackerrank.com/challenges/alternating-characters) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Strings/Easy/Alternating%20Characters/README.md) | Score: 20
 14. Beautiful Binary String | [Problem](https://www.hackerrank.com/challenges/beautiful-binary-string) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Strings/Easy/Beautiful%20Binary%20String/README.md) | Score: 20
 15. The Love-Letter Mystery | [Problem](https://www.hackerrank.com/challenges/the-love-letter-mystery) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Strings/Easy/The%20Love-Letter%20Mystery/README.md) | Score: 20
-16. Palindrome Index | [Problem](https://www.hackerrank.com/challenges/palindrome-index) | [Solution] | Score: 25
+16. Palindrome Index | [Problem](https://www.hackerrank.com/challenges/palindrome-index) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Strings/Easy/Palindrome%20Index/README.md) | Score: 25
 17. Anagram | [Problem](https://www.hackerrank.com/challenges/anagram) | [Solution] | Score: 25
 18. Making Anagrams | [Problem](https://www.hackerrank.com/challenges/making-anagrams) | [Solution] | Score: 30
 19. Game of Thrones - I | [Problem](https://www.hackerrank.com/challenges/game-of-thrones) | [Solution] | Score: 30
