@@ -98,4 +98,4 @@ If you know, how to make my solution better - please, text me.
 18. Making Anagrams | [Problem](https://www.hackerrank.com/challenges/making-anagrams) | [Solution] | Score: 30
 19. Game of Thrones - I | [Problem](https://www.hackerrank.com/challenges/game-of-thrones) | [Solution] | Score: 30
 20. Two Strings | [Problem](https://www.hackerrank.com/challenges/two-strings) | [Solution] | Score: 25
-21. String Construction | [Problem](https://www.hackerrank.com/challenges/string-construction) | [Solution] | Score: 25
+21. String Construction | [Problem](https://www.hackerrank.com/challenges/string-construction) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Strings/Easy/String%20Construction/README.md) | Score: 25
