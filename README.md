@@ -97,5 +97,5 @@ If you know, how to make my solution better - please, text me.
 17. Anagram | [Problem](https://www.hackerrank.com/challenges/anagram) | [Solution] | Score: 25
 18. Making Anagrams | [Problem](https://www.hackerrank.com/challenges/making-anagrams) | [Solution] | Score: 30
 19. Game of Thrones - I | [Problem](https://www.hackerrank.com/challenges/game-of-thrones) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Strings/Easy/Game%20of%20Thrones%20-%20I/README.md) | Score: 30
-20. Two Strings | [Problem](https://www.hackerrank.com/challenges/two-strings) | [Solution] | Score: 25
+20. Two Strings | [Problem](https://www.hackerrank.com/challenges/two-strings) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Strings/Easy/Two%20Strings/README.md) | Score: 25
 21. String Construction | [Problem](https://www.hackerrank.com/challenges/string-construction) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Strings/Easy/String%20Construction/README.md) | Score: 25
