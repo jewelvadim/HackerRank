@@ -102,14 +102,14 @@ If you know, how to make my solution better - please, text me.
 
 #### #Sorting
 ##### Easy
-1. Big Sorting | [Problem](https://www.hackerrank.com/challenges/big-sorting) | [Solution]() | Score: 20
-2. Intro to Tutorial Challenges | [Problem](https://www.hackerrank.com/challenges/tutorial-intro) | [Solution]() | Score: 30
-3. Insertion Sort - Part 1 | [Problem](https://www.hackerrank.com/challenges/insertionsort1) | [Solution]() | Score: 30
-4. Insertion Sort - Part 2 | [Problem](https://www.hackerrank.com/challenges/insertionsort2) | [Solution]() | Score: 30
-5. Correctness and the Loop Invariant | [Problem](https://www.hackerrank.com/challenges/correctness-invariant) | [Solution]() | Score: 30
-6. Running Time of Algorithms | [Problem](https://www.hackerrank.com/challenges/runningtime) | [Solution]() | Score: 30
-7. Quicksort 1 - Partition | [Problem](https://www.hackerrank.com/challenges/quicksort1) | [Solution]() | Score: 10
-8. Counting Sort 1 | [Problem](https://www.hackerrank.com/challenges/countingsort1) | [Solution]() | Score: 30
-9. Counting Sort 2 | [Problem](https://www.hackerrank.com/challenges/countingsort2) | [Solution]() | Score: 30
-10. Closest Numbers | [Problem](https://www.hackerrank.com/challenges/closest-numbers) | [Solution]() | Score: 35
-11. Find the Median | [Problem](https://www.hackerrank.com/challenges/find-the-median) | [Solution]() | Score: 35
+1. Big Sorting | [Problem](https://www.hackerrank.com/challenges/big-sorting) | [Solution] | Score: 20
+2. Intro to Tutorial Challenges | [Problem](https://www.hackerrank.com/challenges/tutorial-intro) | [Solution] | Score: 30
+3. Insertion Sort - Part 1 | [Problem](https://www.hackerrank.com/challenges/insertionsort1) | [Solution] | Score: 30
+4. Insertion Sort - Part 2 | [Problem](https://www.hackerrank.com/challenges/insertionsort2) | [Solution] | Score: 30
+5. Correctness and the Loop Invariant | [Problem](https://www.hackerrank.com/challenges/correctness-invariant) | [Solution] | Score: 30
+6. Running Time of Algorithms | [Problem](https://www.hackerrank.com/challenges/runningtime) | [Solution] | Score: 30
+7. Quicksort 1 - Partition | [Problem](https://www.hackerrank.com/challenges/quicksort1) | [Solution] | Score: 10
+8. Counting Sort 1 | [Problem](https://www.hackerrank.com/challenges/countingsort1) | [Solution] | Score: 30
+9. Counting Sort 2 | [Problem](https://www.hackerrank.com/challenges/countingsort2) | [Solution] | Score: 30
+10. Closest Numbers | [Problem](https://www.hackerrank.com/challenges/closest-numbers) | [Solution] | Score: 35
+11. Find the Median | [Problem](https://www.hackerrank.com/challenges/find-the-median) | [Solution] | Score: 35
