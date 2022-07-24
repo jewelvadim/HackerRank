@@ -7,15 +7,12 @@ def anagram(s: str) -> int:
     n = len(s)
     
     if n % 2 == 0:
-        left = s[:n // 2]
-        right = s[n // 2:]
-        
         frequency = {}
         
-        for symbol in left:
+        for symbol in s[:n // 2]:
             frequency[symbol] = frequency.get(symbol, 0) + 1
             
-        for symbol in right:
+        for symbol in s[n // 2:]:
             frequency[symbol] = frequency.get(symbol, 0) - 1
             
         result = sum(filter(lambda x: x > 0, frequency.values()))
