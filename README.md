@@ -103,7 +103,7 @@ If you know, how to make my solution better - please, text me.
 #### #Sorting
 ##### Easy
 1. Big Sorting | [Problem](https://www.hackerrank.com/challenges/big-sorting) | [Solution] | Score: 20
-2. Intro to Tutorial Challenges | [Problem](https://www.hackerrank.com/challenges/tutorial-intro) | [Solution] | Score: 30
+2. Intro to Tutorial Challenges | [Problem](https://www.hackerrank.com/challenges/tutorial-intro) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Sorting/Easy/Intro%20to%20Tutorial%20Challenges/README.md) | Score: 30
 3. Insertion Sort - Part 1 | [Problem](https://www.hackerrank.com/challenges/insertionsort1) | [Solution] | Score: 30
 4. Insertion Sort - Part 2 | [Problem](https://www.hackerrank.com/challenges/insertionsort2) | [Solution] | Score: 30
 5. Correctness and the Loop Invariant | [Problem](https://www.hackerrank.com/challenges/correctness-invariant) | [Solution] | Score: 30
