@@ -107,7 +107,7 @@ If you know, how to make my solution better - please, text me.
 3. Insertion Sort - Part 1 | [Problem](https://www.hackerrank.com/challenges/insertionsort1) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Sorting/Easy/Insertion%20Sort%20-%20Part%201/README.md) | Score: 30
 4. Insertion Sort - Part 2 | [Problem](https://www.hackerrank.com/challenges/insertionsort2) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Sorting/Easy/Insertion%20Sort%20-%20Part%202/README.md) | Score: 30
 5. Correctness and the Loop Invariant | [Problem](https://www.hackerrank.com/challenges/correctness-invariant) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Sorting/Easy/Correctness%20and%20the%20Loop%20Invariant/README.md) | Score: 30
-6. Running Time of Algorithms | [Problem](https://www.hackerrank.com/challenges/runningtime) | [Solution] | Score: 30
+6. Running Time of Algorithms | [Problem](https://www.hackerrank.com/challenges/runningtime) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Sorting/Easy/Running%20Time%20of%20Algorithms/README.md) | Score: 30
 7. Quicksort 1 - Partition | [Problem](https://www.hackerrank.com/challenges/quicksort1) | [Solution] | Score: 10
 8. Counting Sort 1 | [Problem](https://www.hackerrank.com/challenges/countingsort1) | [Solution] | Score: 30
 9. Counting Sort 2 | [Problem](https://www.hackerrank.com/challenges/countingsort2) | [Solution] | Score: 30
