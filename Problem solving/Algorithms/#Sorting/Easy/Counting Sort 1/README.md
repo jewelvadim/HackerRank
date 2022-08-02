@@ -2,6 +2,13 @@
 
 **Solution**
 ```python
+def countingSort(arr: list[int]) -> list[int]:
+    result = [0] * 100
+    
+    for i in arr:
+        result[i] += 1
+        
+    return result
 ```
 
 If it is useful for you - I am happy. Please, press **star**.  

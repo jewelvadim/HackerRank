@@ -109,7 +109,7 @@ If you know, how to make my solution better - please, text me.
 5. Correctness and the Loop Invariant | [Problem](https://www.hackerrank.com/challenges/correctness-invariant) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Sorting/Easy/Correctness%20and%20the%20Loop%20Invariant/README.md) | Score: 30
 6. Running Time of Algorithms | [Problem](https://www.hackerrank.com/challenges/runningtime) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Sorting/Easy/Running%20Time%20of%20Algorithms/README.md) | Score: 30
 7. Quicksort 1 - Partition | [Problem](https://www.hackerrank.com/challenges/quicksort1) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Sorting/Easy/Quicksort%201%20-%20Partition/README.md) | Score: 10
-8. Counting Sort 1 | [Problem](https://www.hackerrank.com/challenges/countingsort1) | [Solution] | Score: 30
+8. Counting Sort 1 | [Problem](https://www.hackerrank.com/challenges/countingsort1) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Sorting/Easy/Counting%20Sort%201/README.md) | Score: 30
 9. Counting Sort 2 | [Problem](https://www.hackerrank.com/challenges/countingsort2) | [Solution] | Score: 30
 10. Closest Numbers | [Problem](https://www.hackerrank.com/challenges/closest-numbers) | [Solution] | Score: 35
 11. Find the Median | [Problem](https://www.hackerrank.com/challenges/find-the-median) | [Solution] | Score: 35
