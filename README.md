@@ -112,4 +112,4 @@ If you know, how to make my solution better - please, text me.
 8. Counting Sort 1 | [Problem](https://www.hackerrank.com/challenges/countingsort1) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Sorting/Easy/Counting%20Sort%201/README.md) | Score: 30
 9. Counting Sort 2 | [Problem](https://www.hackerrank.com/challenges/countingsort2) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Sorting/Easy/Counting%20Sort%202/README.md) | Score: 30
 10. Closest Numbers | [Problem](https://www.hackerrank.com/challenges/closest-numbers) | [Solution] | Score: 35
-11. Find the Median | [Problem](https://www.hackerrank.com/challenges/find-the-median) | [Solution] | Score: 35
+11. Find the Median | [Problem](https://www.hackerrank.com/challenges/find-the-median) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Sorting/Easy/Find%20the%20Median/README.md) | Score: 35
