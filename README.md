@@ -113,3 +113,9 @@ If you know, how to make my solution better - please, text me.
 9. Counting Sort 2 | [Problem](https://www.hackerrank.com/challenges/countingsort2) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Sorting/Easy/Counting%20Sort%202/README.md) | Score: 30
 10. Closest Numbers | [Problem](https://www.hackerrank.com/challenges/closest-numbers) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Sorting/Easy/Closest%20Numbers/README.md) | Score: 35
 11. Find the Median | [Problem](https://www.hackerrank.com/challenges/find-the-median) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Sorting/Easy/Find%20the%20Median/README.md) | Score: 35
+
+
+#### #Search
+1. Ice Cream Parlor | [Problem](https://www.hackerrank.com/challenges/icecream-parlor) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Search/Easy/Ice%20Cream%20Parlor/README.md) | Score: 30
+2. Missing Numbers | [Problem](https://www.hackerrank.com/challenges/missing-numbers) | [Solution]() | Score: 45
+3. Sherlock and Array | [Problem](https://www.hackerrank.com/challenges/sherlock-and-array) | [Solution]() | Score: 40
