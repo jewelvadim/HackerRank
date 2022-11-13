@@ -117,5 +117,5 @@ If you know, how to make my solution better - please, text me.
 
 #### #Search
 1. Ice Cream Parlor | [Problem](https://www.hackerrank.com/challenges/icecream-parlor) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Search/Easy/Ice%20Cream%20Parlor/README.md) | Score: 30
-2. Missing Numbers | [Problem](https://www.hackerrank.com/challenges/missing-numbers) | [Solution]((https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Search/Easy/Missing%20Numbers/README.md)) | Score: 45
+2. Missing Numbers | [Problem](https://www.hackerrank.com/challenges/missing-numbers) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Search/Easy/Missing%20Numbers/README.md) | Score: 45
 3. Sherlock and Array | [Problem](https://www.hackerrank.com/challenges/sherlock-and-array) | [Solution]() | Score: 40
