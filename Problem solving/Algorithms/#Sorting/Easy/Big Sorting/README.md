@@ -2,6 +2,8 @@
 
 **Solution**
 ```python
+def bigSorting(unsorted: list[str]) -> list[str]:
+    return sorted(unsorted, key=int)
 ```
 
 If it is useful for you - I am happy. Please, press **star**.  
