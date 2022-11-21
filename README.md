@@ -86,7 +86,7 @@ If you know, how to make my solution better - please, text me.
 6. Mars Exploration | [Problem](https://www.hackerrank.com/challenges/mars-exploration) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Strings/Easy/Mars%20Exploration/README.md) | Score: 15
 7. HackerRank in a String! | [Problem](https://www.hackerrank.com/challenges/hackerrank-in-a-string) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Strings/Easy/HackerRank%20in%20a%20String!/README.md) | Score: 20
 8. Pangrams | [Problem](https://www.hackerrank.com/challenges/pangrams) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Strings/Easy/Pangrams/README.md) | Score: 20
-9. Weighted Uniform Strings | [Problem](https://www.hackerrank.com/challenges/weighted-uniform-string/problem) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Strings/Easy/Weighted%20Uniform%20Strings/README.md) | Score: 20
+9. Weighted Uniform Strings | [Problem](https://www.hackerrank.com/challenges/weighted-uniform-string) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Strings/Easy/Weighted%20Uniform%20Strings/README.md) | Score: 20
 10. Separate the Numbers | [Problem](https://www.hackerrank.com/challenges/separate-the-numbers) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Strings/Easy/Separate%20the%20Numbers/README.md) | Score: 20
 11. Funny String | [Problem](https://www.hackerrank.com/challenges/funny-string) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Strings/Easy/Funny%20String/README.md) | Score: 25
 12. Gemstones | [Problem](https://www.hackerrank.com/challenges/gem-stones) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Strings/Easy/Gemstones/README.md) | Score: 20
@@ -119,3 +119,18 @@ If you know, how to make my solution better - please, text me.
 1. Ice Cream Parlor | [Problem](https://www.hackerrank.com/challenges/icecream-parlor) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Search/Easy/Ice%20Cream%20Parlor/README.md) | Score: 30
 2. Missing Numbers | [Problem](https://www.hackerrank.com/challenges/missing-numbers) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Search/Easy/Missing%20Numbers/README.md) | Score: 45
 3. Sherlock and Array | [Problem](https://www.hackerrank.com/challenges/sherlock-and-array) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Search/Easy/Sherlock%20and%20Array/README.md) | Score: 40
+
+
+#### #Greedy
+1. Beautiful Pairs | [Problem](https://www.hackerrank.com/challenges/beautiful-pairs) | [Solution] | Score: 30
+2. Priyanka and Toys | [Problem](https://www.hackerrank.com/challenges/priyanka-and-toys) | [Solution] | Score: 30
+3. Largest Permutation | [Problem](https://www.hackerrank.com/challenges/largest-permutation) | [Solution] | Score: 30
+4. Minimum Absolute Difference in an Array | [Problem](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array) | [Solution] | Score: 15
+5. Marc's Cakewalk | [Problem](https://www.hackerrank.com/challenges/marcs-cakewalk) | [Solution] | Score: 15
+6. Grid Challenge | [Problem](https://www.hackerrank.com/challenges/grid-challenge) | [Solution] | Score: 20
+7. Luck Balance | [Problem](https://www.hackerrank.com/challenges/luck-balance) | [Solution] | Score: 20
+8. Maximum Perimeter Triangle | [Problem](https://www.hackerrank.com/challenges/maximum-perimeter-triangle) | [Solution] | Score: 20
+9. Sherlock and The Beast | [Problem](https://www.hackerrank.com/challenges/sherlock-and-the-beast) | [Solution] | Score: 30
+10. Mark and Toys | [Problem](https://www.hackerrank.com/challenges/mark-and-toys) | [Solution] | Score: 35
+11. Jim and the Orders | [Problem](https://www.hackerrank.com/challenges/jim-and-the-orders) | [Solution] | Score: 40
+12. Permuting Two Arrays | [Problem](https://www.hackerrank.com/challenges/two-arrays) | [Solution] | Score: 40

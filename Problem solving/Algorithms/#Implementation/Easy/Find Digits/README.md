@@ -1,4 +1,4 @@
-# [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)
+# [Find Digits](https://www.hackerrank.com/challenges/find-digits)
 
 **Solution**
 <br>

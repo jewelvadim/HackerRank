@@ -1,4 +1,4 @@
-# [Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations/problem)
+# [Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations)
 
 **Solution**
 <br>

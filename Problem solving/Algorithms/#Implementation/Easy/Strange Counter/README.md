@@ -1,4 +1,4 @@
-# [Strange Counter](https://www.hackerrank.com/challenges/strange-code/problem)
+# [Strange Counter](https://www.hackerrank.com/challenges/strange-code)
 
 **Solution**
 <br>

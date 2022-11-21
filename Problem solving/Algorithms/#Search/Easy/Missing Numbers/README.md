@@ -1,4 +1,4 @@
-# [Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers/problem)
+# [Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers)
 
 **Solution**
 <br>

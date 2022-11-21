@@ -1,4 +1,4 @@
-# [Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem)
+# [Bill Division](https://www.hackerrank.com/challenges/bon-appetit)
 
 **Solution**
 <br>

@@ -1,4 +1,4 @@
-# [Strong Password](https://www.hackerrank.com/challenges/strong-password/problem)
+# [Strong Password](https://www.hackerrank.com/challenges/strong-password)
 
 **Solution**
 ```python

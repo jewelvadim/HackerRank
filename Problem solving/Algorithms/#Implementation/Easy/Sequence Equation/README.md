@@ -1,4 +1,4 @@
-# [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem)
+# [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation)
 
 **Solution**
 <br>

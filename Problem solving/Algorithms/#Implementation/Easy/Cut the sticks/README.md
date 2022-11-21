@@ -1,4 +1,4 @@
-# [Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem)
+# [Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks)
 
 **Solution**
 <br>

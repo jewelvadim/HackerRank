@@ -1,4 +1,4 @@
-# [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
+# [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)
 
 **Solution**
 <br>

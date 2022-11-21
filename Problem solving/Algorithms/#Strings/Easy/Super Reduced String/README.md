@@ -1,4 +1,4 @@
-# [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string/problem)
+# [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string)
 
 **Solution**
 ```python

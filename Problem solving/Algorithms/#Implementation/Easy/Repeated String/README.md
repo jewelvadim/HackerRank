@@ -1,4 +1,4 @@
-# [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem)
+# [Repeated String](https://www.hackerrank.com/challenges/repeated-string)
 
 **Solution**
 <br>

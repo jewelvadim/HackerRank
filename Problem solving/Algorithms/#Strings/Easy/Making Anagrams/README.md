@@ -1,4 +1,4 @@
-# [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams/problem)
+# [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams)
 
 **Solution**
 ```python

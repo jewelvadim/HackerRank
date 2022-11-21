@@ -1,4 +1,4 @@
-# [Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime/problem)
+# [Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime)
 
 **Solution**
 ```python

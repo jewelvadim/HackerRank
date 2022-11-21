@@ -1,4 +1,4 @@
-# [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)
+# [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds)
 
 **Solution**
 <br>

@@ -1,4 +1,4 @@
-# [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team/problem)
+# [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team)
 
 **Solution**
 <br>

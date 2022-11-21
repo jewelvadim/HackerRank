@@ -1,4 +1,4 @@
-# [Grid Challenge](https://www.hackerrank.com/challenges/grid-challenge/problem)
+# [Grid Challenge](https://www.hackerrank.com/challenges/grid-challenge)
 
 **Solution**
 ```python

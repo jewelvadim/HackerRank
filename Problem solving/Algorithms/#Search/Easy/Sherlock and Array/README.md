@@ -1,4 +1,4 @@
-# [Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array/problem)
+# [Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array)
 
 **Solution**
 <br>

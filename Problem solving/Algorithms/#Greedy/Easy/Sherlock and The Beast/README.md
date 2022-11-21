@@ -1,4 +1,4 @@
-# [Sherlock and The Beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem)
+# [Sherlock and The Beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast)
 
 **Solution**
 ```python

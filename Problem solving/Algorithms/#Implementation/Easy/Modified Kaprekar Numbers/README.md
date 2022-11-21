@@ -1,4 +1,4 @@
-# [Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers/problem)
+# [Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers)
 
 **Solution**
 <br>

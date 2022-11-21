@@ -1,4 +1,4 @@
-# [String Construction](https://www.hackerrank.com/challenges/string-construction/problem)
+# [String Construction](https://www.hackerrank.com/challenges/string-construction)
 
 **Solution**
 ```python

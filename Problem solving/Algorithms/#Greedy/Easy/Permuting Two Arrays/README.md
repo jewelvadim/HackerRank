@@ -1,4 +1,4 @@
-# [Permuting Two Arrays](https://www.hackerrank.com/challenges/two-arrays/problem)
+# [Permuting Two Arrays](https://www.hackerrank.com/challenges/two-arrays)
 
 **Solution**
 ```python

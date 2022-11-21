@@ -1,4 +1,4 @@
-# [Priyanka and Toys](https://www.hackerrank.com/challenges/priyanka-and-toys/problem)
+# [Priyanka and Toys](https://www.hackerrank.com/challenges/priyanka-and-toys)
 
 **Solution**
 ```python

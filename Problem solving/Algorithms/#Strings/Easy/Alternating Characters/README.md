@@ -1,4 +1,4 @@
-# [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem)
+# [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters)
 
 **Solution**
 ```python

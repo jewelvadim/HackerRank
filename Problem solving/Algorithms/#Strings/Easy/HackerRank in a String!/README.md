@@ -1,4 +1,4 @@
-# [HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem)
+# [HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string)
 
 **Solution**
 ```python

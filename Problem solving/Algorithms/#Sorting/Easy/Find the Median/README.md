@@ -1,4 +1,4 @@
-# [Find the Median](https://www.hackerrank.com/challenges/find-the-median/problem)
+# [Find the Median](https://www.hackerrank.com/challenges/find-the-median)
 
 **Solution O(n^2)**
 ```python

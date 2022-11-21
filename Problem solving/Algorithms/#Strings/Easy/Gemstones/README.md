@@ -1,4 +1,4 @@
-# [Gemstones](https://www.hackerrank.com/challenges/gem-stones/problem)
+# [Gemstones](https://www.hackerrank.com/challenges/gem-stones)
 
 **Solution**
 ```python

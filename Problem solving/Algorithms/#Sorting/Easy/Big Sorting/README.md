@@ -1,4 +1,4 @@
-# [Big Sorting](https://www.hackerrank.com/challenges/big-sorting/problem)
+# [Big Sorting](https://www.hackerrank.com/challenges/big-sorting)
 
 **Solution**
 ```python

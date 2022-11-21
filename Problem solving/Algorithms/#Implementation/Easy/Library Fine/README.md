@@ -1,4 +1,4 @@
-# [Library Fine](https://www.hackerrank.com/challenges/library-fine/problem)
+# [Library Fine](https://www.hackerrank.com/challenges/library-fine)
 
 **Solution**
 <br>

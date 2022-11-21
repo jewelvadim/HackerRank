@@ -1,4 +1,4 @@
-# [Pangrams](https://www.hackerrank.com/challenges/pangrams/problem)
+# [Pangrams](https://www.hackerrank.com/challenges/pangrams)
 
 **Solution**
 ```python

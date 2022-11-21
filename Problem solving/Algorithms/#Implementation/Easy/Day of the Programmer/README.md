@@ -1,4 +1,4 @@
-# [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)
+# [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer)
 
 **Solution**
 <br>

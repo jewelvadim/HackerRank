@@ -1,4 +1,4 @@
-# [Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1/problem)
+# [Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1)
 
 **Solution**
 ```python

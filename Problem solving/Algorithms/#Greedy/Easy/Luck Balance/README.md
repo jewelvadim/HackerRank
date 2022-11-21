@@ -1,4 +1,4 @@
-# [Luck Balance](https://www.hackerrank.com/challenges/luck-balance/problem)
+# [Luck Balance](https://www.hackerrank.com/challenges/luck-balance)
 
 **Solution**
 ```python

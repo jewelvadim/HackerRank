@@ -1,4 +1,4 @@
-# [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem)
+# [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo)
 
 **Solution**
 <br>

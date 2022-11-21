@@ -1,4 +1,4 @@
-# [Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2/problem)
+# [Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2)
 
 **Solution**
 ```python

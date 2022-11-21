@@ -1,4 +1,4 @@
-# [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)
+# [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first)
 
 **Solution**
 <br>

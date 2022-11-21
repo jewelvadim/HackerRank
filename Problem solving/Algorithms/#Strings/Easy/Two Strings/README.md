@@ -1,4 +1,4 @@
-# [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem)
+# [Two Strings](https://www.hackerrank.com/challenges/two-strings)
 
 **Solution**
 ```python

@@ -1,4 +1,4 @@
-# [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem)
+# [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree)
 
 **Solution**
 <br>

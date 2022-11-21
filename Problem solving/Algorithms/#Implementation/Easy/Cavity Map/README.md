@@ -1,4 +1,4 @@
-# [README.md](https://www.hackerrank.com/challenges/cavity-map/problem)
+# [README.md](https://www.hackerrank.com/challenges/cavity-map)
 
 **Solution**
 <br>

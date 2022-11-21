@@ -1,4 +1,4 @@
-# [Service Lane](https://www.hackerrank.com/challenges/service-lane/problem)
+# [Service Lane](https://www.hackerrank.com/challenges/service-lane)
 
 **Solution**
 <br>

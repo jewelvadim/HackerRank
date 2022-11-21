@@ -1,4 +1,4 @@
-# [Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem)
+# [Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones)
 
 **Solution**
 <br>

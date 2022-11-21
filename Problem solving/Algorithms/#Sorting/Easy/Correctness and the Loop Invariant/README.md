@@ -1,4 +1,4 @@
-# [Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant/problem)
+# [Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant)
 
 **Solution**
 ```python

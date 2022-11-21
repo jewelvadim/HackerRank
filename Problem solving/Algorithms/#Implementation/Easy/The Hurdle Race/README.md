@@ -1,4 +1,4 @@
-# [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem)
+# [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race)
 
 **Solution**
 <br>

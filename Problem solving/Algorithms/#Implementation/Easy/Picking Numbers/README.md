@@ -1,4 +1,4 @@
-# [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem)
+# [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers)
 
 **Solution**
 <br>

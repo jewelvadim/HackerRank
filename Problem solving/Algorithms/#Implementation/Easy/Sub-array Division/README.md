@@ -1,4 +1,4 @@
-# [Sub-array Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem)
+# [Sub-array Division](https://www.hackerrank.com/challenges/the-birthday-bar)
 
 **Solution**
 <br>

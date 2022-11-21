@@ -1,4 +1,4 @@
-# [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem)
+# [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs)
 
 **Solution**
 <br>

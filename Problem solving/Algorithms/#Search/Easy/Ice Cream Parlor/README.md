@@ -1,4 +1,4 @@
-# [Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor/problem)
+# [Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor)
 
 **Solution**
 <br>

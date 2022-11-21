@@ -1,4 +1,4 @@
-# [Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index/problem)
+# [Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index)
 
 **Solution**
 ```python

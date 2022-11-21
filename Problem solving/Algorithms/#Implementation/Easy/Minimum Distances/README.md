@@ -1,4 +1,4 @@
-# [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem)
+# [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances)
 
 **Solution**
 <br>

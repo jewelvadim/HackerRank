@@ -1,4 +1,4 @@
-# [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)
+# [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop)
 
 **Solution**
 <br>

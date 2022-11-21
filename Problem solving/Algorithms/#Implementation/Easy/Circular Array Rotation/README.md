@@ -1,4 +1,4 @@
-# [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem)
+# [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation)
 
 **Solution**
 <br>

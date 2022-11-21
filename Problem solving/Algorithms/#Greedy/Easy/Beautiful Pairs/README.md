@@ -1,4 +1,4 @@
-# [Beautiful Pairs](https://www.hackerrank.com/challenges/beautiful-pairs/problem)
+# [Beautiful Pairs](https://www.hackerrank.com/challenges/beautiful-pairs)
 
 **Solution**
 ```python

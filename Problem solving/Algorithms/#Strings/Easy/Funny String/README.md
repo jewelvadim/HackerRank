@@ -1,4 +1,4 @@
-# [Funny String](https://www.hackerrank.com/challenges/funny-string/problem)
+# [Funny String](https://www.hackerrank.com/challenges/funny-string)
 
 **Solution**
 ```python

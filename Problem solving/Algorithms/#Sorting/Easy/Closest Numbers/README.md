@@ -1,4 +1,4 @@
-# [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers/problem)
+# [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers)
 
 **Solution**
 ```python

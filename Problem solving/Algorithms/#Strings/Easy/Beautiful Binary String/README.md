@@ -1,4 +1,4 @@
-# [Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string/problem)
+# [Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string)
 
 **Solution**
 ```python

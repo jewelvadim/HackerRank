@@ -1,4 +1,4 @@
-# [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem)
+# [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1)
 
 **Solution**
 ```python

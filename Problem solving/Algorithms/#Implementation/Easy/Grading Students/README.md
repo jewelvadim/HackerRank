@@ -1,4 +1,4 @@
-# [Grading Students](https://www.hackerrank.com/challenges/grading/problem)
+# [Grading Students](https://www.hackerrank.com/challenges/grading)
 
 **Solution**
 <br>

@@ -1,4 +1,4 @@
-# [Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem)
+# [Sales by Match](https://www.hackerrank.com/challenges/sock-merchant)
 
 **Solution in one iteration**
 <br>

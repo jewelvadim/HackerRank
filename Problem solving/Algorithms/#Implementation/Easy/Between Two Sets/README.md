@@ -1,4 +1,4 @@
-# [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)
+# [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets)
 
 **One string solution (just for fun)**
 <br>

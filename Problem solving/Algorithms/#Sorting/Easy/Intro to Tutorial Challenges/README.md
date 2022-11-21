@@ -1,4 +1,4 @@
-# [Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro/problem)
+# [Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro)
 
 **Solution**
 ```python

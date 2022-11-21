@@ -1,4 +1,4 @@
-# [Maximum Perimeter Triangle](https://www.hackerrank.com/challenges/maximum-perimeter-triangle/problem)
+# [Maximum Perimeter Triangle](https://www.hackerrank.com/challenges/maximum-perimeter-triangle)
 
 **Solution**
 ```python

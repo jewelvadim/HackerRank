@@ -1,4 +1,4 @@
-# [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)
+# [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys)
 
 **Solution**
 <br>

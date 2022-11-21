@@ -1,4 +1,4 @@
-# [CamelCase](https://www.hackerrank.com/challenges/camelcase/problem)
+# [CamelCase](https://www.hackerrank.com/challenges/camelcase)
 
 **Solution**
 ```python

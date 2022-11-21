@@ -1,4 +1,4 @@
-# [Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2/problem)
+# [Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2)
 
 **Solution**
 ```python

@@ -1,4 +1,4 @@
-# [Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string/problem)
+# [Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string)
 
 **Solution one-liner**
 ```python

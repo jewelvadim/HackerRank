@@ -1,4 +1,4 @@
-# [Separate the Numbers](https://www.hackerrank.com/challenges/separate-the-numbers/problem)
+# [Separate the Numbers](https://www.hackerrank.com/challenges/separate-the-numbers)
 
 **Solution**
 ```python

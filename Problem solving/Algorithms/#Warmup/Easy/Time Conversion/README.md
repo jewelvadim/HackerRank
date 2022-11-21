@@ -1,4 +1,4 @@
-# [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)
+# [Time Conversion](https://www.hackerrank.com/challenges/time-conversion)
 
 **Solution**
 <br>

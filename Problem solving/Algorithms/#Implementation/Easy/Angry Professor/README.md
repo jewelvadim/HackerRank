@@ -1,4 +1,4 @@
-# [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)
+# [Angry Professor](https://www.hackerrank.com/challenges/angry-professor)
 
 **Solution**
 <br>

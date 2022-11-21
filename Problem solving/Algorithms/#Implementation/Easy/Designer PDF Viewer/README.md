@@ -1,4 +1,4 @@
-# [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)
+# [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer)
 
 **Solution**
 <br>

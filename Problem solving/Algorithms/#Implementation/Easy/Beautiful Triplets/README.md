@@ -1,4 +1,4 @@
-# [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem)
+# [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets)
 
 **One string solution (just for fun)**
 <br>

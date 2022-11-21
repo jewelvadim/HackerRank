@@ -1,4 +1,4 @@
-# [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem)
+# [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)
 
 **Solution**
 <br>

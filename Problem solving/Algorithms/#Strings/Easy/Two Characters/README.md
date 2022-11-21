@@ -1,4 +1,4 @@
-# [Two Characters](https://www.hackerrank.com/challenges/two-characters/problem)
+# [Two Characters](https://www.hackerrank.com/challenges/two-characters)
 
 **Solution one-liner**
 ```python

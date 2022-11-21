@@ -1,4 +1,4 @@
-# [Largest Permutation](https://www.hackerrank.com/challenges/largest-permutation/problem)
+# [Largest Permutation](https://www.hackerrank.com/challenges/largest-permutation)
 
 **Solution**
 ```python

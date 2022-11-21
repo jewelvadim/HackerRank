@@ -1,4 +1,4 @@
-# [Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem)
+# [Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale)
 
 **Solution**
 <br>

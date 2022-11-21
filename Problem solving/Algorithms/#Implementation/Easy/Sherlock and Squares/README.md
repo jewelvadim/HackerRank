@@ -1,4 +1,4 @@
-# [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem)
+# [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares)
 
 **Solution**
 <br>
