@@ -116,12 +116,14 @@ If you know, how to make my solution better - please, text me.
 
 
 #### #Search
+##### Easy
 1. Ice Cream Parlor | [Problem](https://www.hackerrank.com/challenges/icecream-parlor) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Search/Easy/Ice%20Cream%20Parlor/README.md) | Score: 30
 2. Missing Numbers | [Problem](https://www.hackerrank.com/challenges/missing-numbers) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Search/Easy/Missing%20Numbers/README.md) | Score: 45
 3. Sherlock and Array | [Problem](https://www.hackerrank.com/challenges/sherlock-and-array) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Search/Easy/Sherlock%20and%20Array/README.md) | Score: 40
 
 
 #### #Greedy
+##### Easy
 1. Beautiful Pairs | [Problem](https://www.hackerrank.com/challenges/beautiful-pairs) | [Solution] | Score: 30
 2. Priyanka and Toys | [Problem](https://www.hackerrank.com/challenges/priyanka-and-toys) | [Solution] | Score: 30
 3. Largest Permutation | [Problem](https://www.hackerrank.com/challenges/largest-permutation) | [Solution] | Score: 30
