@@ -130,7 +130,7 @@ If you know, how to make my solution better - please, text me.
 4. Minimum Absolute Difference in an Array | [Problem](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array) | [Solution] | Score: 15
 5. Marc's Cakewalk | [Problem](https://www.hackerrank.com/challenges/marcs-cakewalk) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Greedy/Easy/Marc%27s%20Cakewalk/README.md) | Score: 15
 6. Grid Challenge | [Problem](https://www.hackerrank.com/challenges/grid-challenge) | [Solution] | Score: 20
-7. Luck Balance | [Problem](https://www.hackerrank.com/challenges/luck-balance) | [Solution] | Score: 20
+7. Luck Balance | [Problem](https://www.hackerrank.com/challenges/luck-balance) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Greedy/Easy/Luck%20Balance/README.md) | Score: 20
 8. Maximum Perimeter Triangle | [Problem](https://www.hackerrank.com/challenges/maximum-perimeter-triangle) | [Solution] | Score: 20
 9. Sherlock and The Beast | [Problem](https://www.hackerrank.com/challenges/sherlock-and-the-beast) | [Solution] | Score: 30
 10. Mark and Toys | [Problem](https://www.hackerrank.com/challenges/mark-and-toys) | [Solution] | Score: 35
