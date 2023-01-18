@@ -133,6 +133,6 @@ If you know, how to make my solution better - please, text me.
 7. Luck Balance | [Problem](https://www.hackerrank.com/challenges/luck-balance) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Greedy/Easy/Luck%20Balance/README.md) | Score: 20
 8. Maximum Perimeter Triangle | [Problem](https://www.hackerrank.com/challenges/maximum-perimeter-triangle) | [Solution] | Score: 20
 9. Sherlock and The Beast | [Problem](https://www.hackerrank.com/challenges/sherlock-and-the-beast) | [Solution] | Score: 30
-10. Mark and Toys | [Problem](https://www.hackerrank.com/challenges/mark-and-toys) | [Solution] | Score: 35
+10. Mark and Toys | [Problem](https://www.hackerrank.com/challenges/mark-and-toys) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Greedy/Easy/Mark%20and%20Toys/README.md) | Score: 35
 11. Jim and the Orders | [Problem](https://www.hackerrank.com/challenges/jim-and-the-orders) | [Solution] | Score: 40
 12. Permuting Two Arrays | [Problem](https://www.hackerrank.com/challenges/two-arrays) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Greedy/Easy/Permuting%20Two%20Arrays/README.md) | Score: 40
