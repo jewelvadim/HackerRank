@@ -125,7 +125,7 @@ If you know, how to make my solution better - please, text me.
 #### #Greedy
 ##### Easy
 1. Beautiful Pairs | [Problem](https://www.hackerrank.com/challenges/beautiful-pairs) | [Solution] | Score: 30
-2. Priyanka and Toys | [Problem](https://www.hackerrank.com/challenges/priyanka-and-toys) | [Solution] | Score: 30
+2. Priyanka and Toys | [Problem](https://www.hackerrank.com/challenges/priyanka-and-toys) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Greedy/Easy/Priyanka%20and%20Toys/README.md) | Score: 30
 3. Largest Permutation | [Problem](https://www.hackerrank.com/challenges/largest-permutation) | [Solution] | Score: 30
 4. Minimum Absolute Difference in an Array | [Problem](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array) | [Solution] | Score: 15
 5. Marc's Cakewalk | [Problem](https://www.hackerrank.com/challenges/marcs-cakewalk) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Greedy/Easy/Marc%27s%20Cakewalk/README.md) | Score: 15
