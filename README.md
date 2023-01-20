@@ -131,7 +131,7 @@ If you know, how to make my solution better - please, text me.
 5. Marc's Cakewalk | [Problem](https://www.hackerrank.com/challenges/marcs-cakewalk) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Greedy/Easy/Marc%27s%20Cakewalk/README.md) | Score: 15
 6. Grid Challenge | [Problem](https://www.hackerrank.com/challenges/grid-challenge) | [Solution] | Score: 20
 7. Luck Balance | [Problem](https://www.hackerrank.com/challenges/luck-balance) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Greedy/Easy/Luck%20Balance/README.md) | Score: 20
-8. Maximum Perimeter Triangle | [Problem](https://www.hackerrank.com/challenges/maximum-perimeter-triangle) | [Solution] | Score: 20
+8. Maximum Perimeter Triangle | [Problem](https://www.hackerrank.com/challenges/maximum-perimeter-triangle) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Greedy/Easy/Maximum%20Perimeter%20Triangle/README.md) | Score: 20
 9. Sherlock and The Beast | [Problem](https://www.hackerrank.com/challenges/sherlock-and-the-beast) | [Solution] | Score: 30
 10. Mark and Toys | [Problem](https://www.hackerrank.com/challenges/mark-and-toys) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Greedy/Easy/Mark%20and%20Toys/README.md) | Score: 35
 11. Jim and the Orders | [Problem](https://www.hackerrank.com/challenges/jim-and-the-orders) | [Solution] | Score: 40
