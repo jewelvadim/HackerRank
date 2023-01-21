@@ -2,6 +2,10 @@
 
 **Solution**
 ```python
+def jimOrders(orders: list[list[int]]) -> list[int]:
+    result = {i + 1: sum(v) for i, v in enumerate(orders)}
+    
+    return sorted(result, key=lambda x: (result[x], x))
 ```
 
 If it is useful for you - I am happy. Please, press **star**.  
