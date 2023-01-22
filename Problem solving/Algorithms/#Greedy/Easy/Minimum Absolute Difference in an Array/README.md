@@ -2,12 +2,15 @@
 
 **Solution**
 ```python
+from math import inf
+
+
 def minimumAbsoluteDifference(arr: list[int]) -> int:
     arr.sort()
     n = len(arr)
 
     if n == len(set(arr)):
-        result = abs(arr[0] - arr[1])
+        result = inf
 
         for i in range(n - 1):
             abs_difference = abs(arr[i] - arr[i + 1])
