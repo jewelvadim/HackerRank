@@ -129,7 +129,7 @@ If you know, how to make my solution better - please, text me.
 3. Largest Permutation | [Problem](https://www.hackerrank.com/challenges/largest-permutation) | [Solution] | Score: 30
 4. Minimum Absolute Difference in an Array | [Problem](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Greedy/Easy/Minimum%20Absolute%20Difference%20in%20an%20Array/README.md) | Score: 15
 5. Marc's Cakewalk | [Problem](https://www.hackerrank.com/challenges/marcs-cakewalk) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Greedy/Easy/Marc%27s%20Cakewalk/README.md) | Score: 15
-6. Grid Challenge | [Problem](https://www.hackerrank.com/challenges/grid-challenge) | [Solution] | Score: 20
+6. Grid Challenge | [Problem](https://www.hackerrank.com/challenges/grid-challenge) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Greedy/Easy/Grid%20Challenge/README.md) | Score: 20
 7. Luck Balance | [Problem](https://www.hackerrank.com/challenges/luck-balance) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Greedy/Easy/Luck%20Balance/README.md) | Score: 20
 8. Maximum Perimeter Triangle | [Problem](https://www.hackerrank.com/challenges/maximum-perimeter-triangle) | [Solution](https://github.com/jewelvadim/HackerRank/blob/master/Problem%20solving/Algorithms/%23Greedy/Easy/Maximum%20Perimeter%20Triangle/README.md) | Score: 20
 9. Sherlock and The Beast | [Problem](https://www.hackerrank.com/challenges/sherlock-and-the-beast) | [Solution] | Score: 30
